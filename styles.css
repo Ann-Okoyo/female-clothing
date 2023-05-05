@@ -1,0 +1,171 @@
+.nav{
+    /* display block  starts on a new line and takes up the available screen width */
+    display: block;
+    /* line-height: 40px; */
+    color: black !important;
+    text-align: center;
+
+}
+
+.nav li{
+    /* display block  starts on a new line and takes up the available screen width */
+    display: inline-block;
+    /* line-height: 40px; */
+    color: black !important;
+    padding-bottom: 5em;
+}
+
+.nav a{
+    padding: 2em;
+}
+/* 
+/* remove bullets ,margin and padding */
+.nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    /* margin-bottom: 28%; */
+    
+
+}
+/* or one can use display inline */
+.nav li a{
+    float: left;
+    /* padding-left: 12em; */
+    /* margin-bottom: 80%%; */
+    padding-bottom: 2em;
+}
+
+/* 
+.work{
+    margin-top: 40%;
+} */
+
+.image{
+    background-image:url(/images/moda.jpg);
+    background-repeat: no-repeat;
+    padding-top: 80%;
+    background-size: cover;
+    height: 20%;
+    width: auto;
+    /* background-color: plum; */
+}
+.work{
+    margin-top: -50%;
+    font-size: 120%;
+    color:black;
+}
+.bt{
+    padding-left: 5%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    margin-left:2% ;
+    border-radius: 2%;
+    background-color:palevioletred;
+    border-radius: 8%;
+
+}
+.weekly{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30%;
+}
+.dresses{
+    text-align: center;
+}
+.all{
+display: grid;
+grid-template-columns: repeat(4, 2fr);
+}
+.view{
+    /* text-align: center; */
+    width: 9%;
+    height: 19%;
+    margin-left: 44%;
+    background-color: palevioletred;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+    
+}
+.big{
+    margin-left: 7%;
+}
+.shoes{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+.heels1{
+    width: 40%;
+}
+.heels2{
+    max-width: 100%;
+    max-height: 300px;
+}
+.sele{
+    text-align: center;
+}
+.scar{
+    text-align: center;
+}
+.big{
+    margin-left: 20%;
+    height: 30%;
+}
+.formal{
+    margin-right: 5%;
+}
+.formal{
+   margin-right:10%;
+    
+}
+.words{
+    text-align: center;
+}
+.heels2{
+    margin-top: 2%;
+    margin-right: 4%;
+}
+
+.shop2{
+    
+    
+}
+.the{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+ 
+
+}
+.fonts{
+    margin-left: 10%;
+    margin-top: 20%;
+}
+.enter{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: white;
+}
+.subs{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: hotpink;
+
+}
+.master{
+    margin-top: 10%;
+}
+.scal{
+
+}
+.scof{
+margin-top: 5%;
+}
+
