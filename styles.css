@@ -168,4 +168,5 @@ grid-template-columns: repeat(4, 2fr);
 .scof{
 margin-top: 5%;
 }
+@media (min-width: 600px) and (max-width: 768px) {}
 
